@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Robotic Harlequin Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Robotic Harlequin Regular'), url('RoboticHarlequin-MRBx.woff') format('woff');
+    }
+
+    h1 {
+        font-family: 'Robotic Harlequin Regular';
+        font-weight: 200;
+        color: #0ccac4;
+    }
